@@ -131,7 +131,7 @@ How can we create an intuitive platform where users easily find, order, and pay 
    cd Bite
 
 📜 License
-This project is licensed under the MIT License – see the [LICENSE](https://github.com/users/id0r3a/projects/3/LICENSE) file for details.
+This project is licensed under the MIT License – see the [LICENSE]([https://github.com/users/id0r3a/projects/3/LICENSE](https://github.com/id0r3a/Bite.git)) file for details.
 
 🚀 Contributions & Feedback
 Contributions are welcome! Feel free to fork the repository, open issues, and submit pull requests. For major changes, please discuss them via an issue first.
